@@ -1,3 +1,26 @@
+         ===============================================
+                  Blatonic Network License Notice
+         ===============================================
+
+Copyright (c) 2025 Blatonic Network.
+All rights reserved.
+
+This project, "Blatonic Network", is an independent and modified version
+of the open-source Cosmos SDK (https://github.com/cosmos/cosmos-sdk).
+
+For full attribution details, please see the "NOTICE" file distributed
+with this work.
+
+Modifications and new additions made by the Blatonic team are released
+under the same Apache License, Version 2.0.
+
+Blatonic Network is NOT an official product of the Cosmos project
+and is developed independently by the Blatonic Network team.
+
+---
+
+Below is the original Apache 2.0 License, which applies to all parts
+of the software derived from the Cosmos SDK and to the new modifications.
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -178,7 +201,7 @@
    APPENDIX: How to apply the Apache License to your work.
 
       To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
+      boilerplate notice, with the fields enclosed by brackets "{}"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
@@ -186,7 +209,8 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright Cosmos-SDK Authors
+   Copyright 2016 All in Bits, Inc
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +223,4 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
