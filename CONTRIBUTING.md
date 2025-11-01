@@ -13,7 +13,7 @@ This is the most important section. To ensure the project remains fully open-sou
 **By submitting any contribution (including, but not limited to, code, documentation, or issues) to this project, you expressly agree to the following:**
 
 1.  You affirm that you created the contribution yourself or that you have the full legal rights to grant this license.
-2.  You agree that your contribution is provided and perpetually, irrevocably licensed to the project under the terms of the **Apache License, Version 2.0** (the same license as the project, detailed in the `LICENSE` file).
+2.  You agree that your contribution is provided and perpetually, irrevocably licensed to the project under the terms of the **MIT** (the same license as the project, detailed in the `LICENSE` file).
 
 This ensures that all contributions follow the same legal rules as the project itself.
 
